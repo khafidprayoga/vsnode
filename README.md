@@ -32,3 +32,4 @@
 6. One Dark Pro
 7. Nord
 8. Sublime Material Theme
+9. Tokyo Night

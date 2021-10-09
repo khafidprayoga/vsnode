@@ -4,8 +4,6 @@ Repository ini berisi panduan konfigurasi VSCode untuk pengembang Javascript .
 
 ## Plugin
 
-Berikut ini beberapa plugin yang saya sarankan
-
 1. Git Graph
 2. Git History
 3. HTML CSS Support

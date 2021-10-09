@@ -1,7 +1,3 @@
-# Tentang
-
-Repository ini berisi panduan konfigurasi VSCode untuk pengembang Javascript .
-
 ## Plugin
 
 1. Git Graph

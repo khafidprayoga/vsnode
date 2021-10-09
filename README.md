@@ -14,6 +14,7 @@
 12. HTML Snippets
 13. IntelliSense for CSS class names in HTML
 14. DOM Code Snippets
+15. Rainbow Brackets
 
 ## Font
 

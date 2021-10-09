@@ -18,3 +18,10 @@ Repository ini berisi panduan konfigurasi VSCode untuk pengembang Javascript .
 12. HTML Snippets
 13. IntelliSense for CSS class names in HTML
 14. DOM Code Snippets
+
+## Font
+
+1. Jetbrains Mono
+2. Fira Code
+3. Hack
+4. Source Code Pro

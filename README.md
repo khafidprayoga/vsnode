@@ -21,3 +21,14 @@
 2. Fira Code
 3. Hack
 4. Source Code Pro
+
+## Theme
+
+1. Dracula Official
+2. Dark Molokai Theme
+3. Gruvbox Material
+4. Gruvbox Theme
+5. Material Icon Theme
+6. One Dark Pro
+7. Nord
+8. Sublime Material Theme

@@ -1,3 +1,5 @@
+Cara install press F1 > ext install
+
 ## Plugin
 
 1. Git Graph

@@ -14,7 +14,7 @@ Repository ini berisi panduan konfigurasi VSCode untuk pengembang Javascript .
 8. Remote - SSH
 9. Bracket Pair Colorizer
 10. Auto Close Tag
-11. AUto Rename Tag
+11. Auto Rename Tag
 12. HTML Snippets
 13. IntelliSense for CSS class names in HTML
 14. DOM Code Snippets
